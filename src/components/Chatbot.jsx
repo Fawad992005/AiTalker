@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import { generateResponse } from "./ApiService";
+import { generateResponse } from "./Apiservice";
 import { Send, Loader2, Copy, Check } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
